@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1574653234 source:e:\tubespsd\tubesperpustakaan\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<cstdlib>
+	<Windows.h>
+
+1574653234 >
+
+1575115587 source:/media/mr-root/MEDIA/TubesPSD/TubesPerpustakaan/main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<cstdlib>
+	<iomanip>
+	<stdio.h>
+
